@@ -1,0 +1,3 @@
+hi virtual hello my jvm
+name jit is alpha neeraj pi
+java tech hi java
