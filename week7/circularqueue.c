@@ -1,6 +1,6 @@
 #include<stdio.h>
 int size;
-void enqueue(int* queue,int* front,int * rear,int value){
+void enqueue(int* queue,int* front,int* rear,int value){
     if(*front-*rear==1 || (*front==0 && *rear==size-1)){
         printf("error\n");
         return ;
